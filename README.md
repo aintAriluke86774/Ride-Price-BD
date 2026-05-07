@@ -44,6 +44,6 @@ The fare engine is a trained `GradientBoostingRegressor` model (scikit-learn) wi
 
 ## 👤 Author
 
-**Takbir Zaman Bhuiyan**  
-[LinkedIn](https://www.linkedin.com/in/takbir-zaman-bhuiyan)
+**Chandpur Robotics Club**  
+[LinkedIn](https://www.facebook.com/in/Chandpur Robotics Club)
 ```
