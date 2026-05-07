@@ -16,7 +16,7 @@ A ride fare estimator for Dhaka, Bangladesh. Instantly calculates expected costs
 
 ## 🚀 Live Demo
 
-👉 [ridepricebd.netlify.app](https://ridepricebd.netlify.app)
+👉 [ridepricebd.netlify.app](https://aintariluke86774.github.io/Ride-Price-BD/)
 
 ## 🧠 How It Works
 
